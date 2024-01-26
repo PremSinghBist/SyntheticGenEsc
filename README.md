@@ -2,7 +2,7 @@
 ## Overview
 This repository houses a pretrained Sars-Escape network model and a dataset of synthetic spike protein sequences generated using a Generative Adversarial Network (GAN). The resources here facilitate research on viral escape mechanisms and potential therapeutic design strategies.
 ## Contents
-•	Pretrained Sars-Escape model:\\
+•	Pretrained Sars-Escape model:  
   o	Trained to detect potential escape mutations in SARS-CoV-2 spike protein sequences.  
   o	Located in models/pretrained_sars_escape_spike_detection_model/m4.  
 •	Generated spike protein sequences:\\
