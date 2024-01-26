@@ -8,8 +8,8 @@ This repository houses a pretrained Sars-Escape network model and a dataset of s
 •	Generated spike protein sequences:\\
   o	Produced using a GAN to augment the training dataset.  
   o	Found in results/gan_generated_escape_sequences.csv  
-•	Original Code for generating sequences was leveraged using:  
-  o	Based on https://github.com/Biomatter-Designs/ProteinGAN.  
+•	Original Code for generating sequences was leveraged Based on:    
+  o	 https://github.com/Biomatter-Designs/ProteinGAN.    
 •	Code for training the Sars-Escape model:  
   o	Based on https://github.com/PremSinghBist/Sars-CoV-2-Escape-Model.  
   o	Available in the code/model_training directory.  
